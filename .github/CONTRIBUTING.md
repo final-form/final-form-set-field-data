@@ -8,8 +8,8 @@ We are open to, and grateful for, any contributions made by the community.
 ## Reporting issues and asking questions
 
 Before opening an issue, please search the
-[issue tracker](https://github.com/final-form/final-form-arrays/issues) to make
-sure your issue hasn’t already been reported.
+[issue tracker](https://github.com/final-form/final-form-set-field-data/issues)
+to make sure your issue hasn’t already been reported.
 
 **We use the issue tracker to keep track of bugs and improvements** to 🏁 Final
 Form Set Field Data itself, its examples, and the documentation. We encourage
@@ -18,7 +18,7 @@ implementation, etc. If a topic has been discussed before, we will ask you to
 join the previous discussion.
 
 For support or usage questions, please search and ask on
-[StackOverflow with a `final-form-arrays` tag](https://stackoverflow.com/questions/tagged/final-form-arrays).
+[StackOverflow with a `final-form-set-field-data` tag](https://stackoverflow.com/questions/tagged/final-form-set-field-data).
 We ask you to do this because StackOverflow has a much better job at keeping
 popular questions visible. Unfortunately good answers get lost and outdated on
 GitHub.
@@ -34,8 +34,8 @@ request.**
 It's never a fun experience to have your pull request declined after investing a
 lot of time and effort into a new feature. To avoid this from happening, we
 request that contributors create
-[an issue](https://github.com/final-form/final-form-arrays/issues) to first
-discuss any significant new features.
+[an issue](https://github.com/final-form/final-form-set-field-data/issues) to
+first discuss any significant new features.
 
 Please try to keep your pull request focused in scope and avoid including
 unrelated commits.
@@ -52,7 +52,7 @@ npm run precommit
 ## Coding standards
 
 Our code formatting rules are defined in
-[.eslintrc](https://github.com/final-form/final-form-arrays/blob/master/.eslintrc).
+[.eslintrc](https://github.com/final-form/final-form-set-field-data/blob/master/.eslintrc).
 You can check your code against these standards by running:
 
 ```sh
