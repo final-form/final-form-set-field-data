@@ -1,6 +1,6 @@
 <!--
 
-👋 Hey, thanks for taking an interest in 🏁 Final Form Arrays!
+👋 Hey, thanks for taking an interest in 🏁 Final Form Set Field Data!
 
 -->
 
