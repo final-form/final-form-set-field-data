@@ -51,6 +51,6 @@ form.registerField(
 
 ## Mutator
 
-### `form.mutators.setFieldData(name: string, values: Object) => undefined`
+### `form.mutators.setFieldData(name: string, values: Object) => void`
 
 Merges the values provided into the `data` value for the specified field
