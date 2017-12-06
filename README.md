@@ -2,7 +2,7 @@
 
 [![NPM Version](https://img.shields.io/npm/v/final-form-set-field-data.svg?style=flat)](https://www.npmjs.com/package/final-form-set-field-data)
 [![NPM Downloads](https://img.shields.io/npm/dm/final-form-set-field-data.svg?style=flat)](https://www.npmjs.com/package/final-form-set-field-data)
-[![Build Status](https://img.shields.io/travis/final-form/final-form-set-field-data/v6.svg?style=flat)](https://travis-ci.org/final-form/final-form-set-field-data)
+[![Build Status](https://travis-ci.org/final-form/final-form-set-field-data.svg?branch=master)](https://travis-ci.org/final-form/final-form-set-field-data)
 [![codecov.io](https://codecov.io/gh/final-form/final-form-set-field-data/branch/master/graph/badge.svg)](https://codecov.io/gh/final-form/final-form-set-field-data)
 [![styled with prettier](https://img.shields.io/badge/styled_with-prettier-ff69b4.svg)](https://github.com/prettier/prettier)
 
