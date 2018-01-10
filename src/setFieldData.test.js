@@ -45,4 +45,15 @@ describe('setFieldData', () => {
     expect(state.fields.foo.data.author).toBe('erikras')
     expect(state.fields.foo.data.awesome).toBe(true)
   })
+
+  it('should do nothing if field is not found', () => {
+    const data = {}
+    const foo = { data }
+    const fields = { foo }
+    const state = { fields }
+    setFieldData(['bar', { awesome: true }], state, {})
+    expect(state.fields).toBe(fields)
+    expect(state.fields.foo).toBe(foo)
+    expect(state.fields.foo.data).toBe(data)
+  })
 })
