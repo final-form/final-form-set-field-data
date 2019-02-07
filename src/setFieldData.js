@@ -1,9 +1,8 @@
 // @flow
 import type { MutableState, Mutator } from 'final-form'
 
-type Args = [string, Object]
-
-const setFieldData: Mutator = ([name, data]: Args, state: MutableState) => {
+const setFieldData: Mutator = (args: any[], state: MutableState) => {
+  const [name, data] = args
   const field = state.fields[name]
   if (field) {
     field.data = { ...field.data, ...data }
