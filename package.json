@@ -1,6 +1,6 @@
 {
   "name": "final-form-set-field-data",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Mutator for setting arbitrary metadata on fields in 🏁 Final Form",
   "main": "dist/final-form-set-field-data.cjs.js",
   "jsnext:main": "dist/final-form-set-field-data.es.js",
