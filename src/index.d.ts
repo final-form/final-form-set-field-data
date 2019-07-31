@@ -1,4 +1,4 @@
-import type { Mutator } from 'final-form'
+import { Mutator } from 'final-form';
 
-const value: Mutator;
+declare const value: Mutator;
 export default value;
