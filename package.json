@@ -79,6 +79,7 @@
       "git add"
     ]
   },
+  "typings": "dist/index.d.ts"
   "bundlesize": [
     {
       "path": "dist/final-form-set-field-data.umd.min.js",
