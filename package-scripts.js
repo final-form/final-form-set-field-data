@@ -28,7 +28,8 @@ module.exports = {
           'build.cjs',
           'build.umd.main',
           'build.umd.min',
-          'copyTypes'
+          'copyTypes',
+          'copyDefs'
         )
       ),
       es: {
