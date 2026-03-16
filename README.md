@@ -35,8 +35,6 @@ const form = createForm({
   onSubmit
 })
 
-form.mutators.setFieldData('firstName', { awesome: true })
-
 form.registerField(
   'firstName',
   fieldState => {
@@ -47,6 +45,8 @@ form.registerField(
     data: true
   }
 )
+
+form.mutators.setFieldData('firstName', { awesome: true })
 ```
 
 ## Mutator
